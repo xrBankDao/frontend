@@ -32,8 +32,6 @@ xrBankDAO’s architecture follows a decentralized model to maintain security an
 
 ![System Diagram](./flow.png)
 
-This design ensures stability and integrates directly with the XRPL ledger, ensuring that each transaction is transparent and secure.
-
 ---
 
 ## Functions
