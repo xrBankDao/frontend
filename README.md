@@ -30,7 +30,7 @@ xrBankDAO’s architecture follows a decentralized model to maintain security an
 2. **Stablecoin Minting**: Users can mint XSD stablecoins based on the collateral.
 3. **Yield Generation**: Minted XSD can be used for earning yield, either through staking or liquidity provision.
 
-![System Diagram](./flow.png)
+![System Diagram](./flowDiagram.png)
 
 ---
 
