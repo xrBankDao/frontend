@@ -22,13 +22,15 @@ xrBankDAO’s architecture follows a decentralized model to maintain security an
 - **Minting**: Allows users to mint stablecoins (XSD) against their deposited XRP collateral.
 - **Earnings**: Users can earn yield by providing liquidity or through interest-bearing features on XSD.
 
-![System Diagram](link_to_diagram.png) <!-- Replace with actual image link if available -->
+![System Diagram](./Modules.png)
 
 ### Interaction Flow
 
 1. **User Deposit**: XRP is deposited as collateral.
 2. **Stablecoin Minting**: Users can mint XSD stablecoins based on the collateral.
 3. **Yield Generation**: Minted XSD can be used for earning yield, either through staking or liquidity provision.
+
+![System Diagram](./flow.png)
 
 This design ensures stability and integrates directly with the XRPL ledger, ensuring that each transaction is transparent and secure.
 
