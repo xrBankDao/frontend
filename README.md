@@ -20,10 +20,16 @@ The dApp includes three primary functions:
 
 ## Quick Start Guide
 
-To start using xrBankDAO, follow these steps:
+To start using xrBankDAO, follow these steps:  
+node : >= 16
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/xrBankDAO.git
-   cd xrBankDAO
+   git clone git@github.com:xrBankDao/frontend.git
+   cd frontend
+   ```
+2. **install and start**:
+   ```bash
+   npm install
+   npm start
    ```
