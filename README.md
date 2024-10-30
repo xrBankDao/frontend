@@ -21,7 +21,7 @@ The dApp includes three primary functions:
 ## Quick Start Guide
 
 To start using xrBankDAO, follow these steps:  
-node : >= 16
+node : >= 18
 
 1. **Clone the Repository**:
    ```bash
